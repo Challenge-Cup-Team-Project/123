@@ -1,0 +1,14 @@
+# 仿真输出产物
+*.csv
+output/
+*.png
+*.jpg
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VScode本地配置
+.vscode/
